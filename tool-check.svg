@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" role="img" aria-labelledby="title desc">
+  <title id="title">Web-development tool check</title>
+  <desc id="desc">A browser window beside a wrench, representing setup and testing tools.</desc>
+  <rect width="600" height="300" rx="20" fill="#f8e8b5"/>
+  <rect x="55" y="55" width="330" height="190" rx="12" fill="#fff" stroke="#8c1d40" stroke-width="8"/>
+  <path d="M55 95 H385" stroke="#8c1d40" stroke-width="8"/>
+  <circle cx="82" cy="76" r="7" fill="#ffc627"/>
+  <circle cx="106" cy="76" r="7" fill="#ffc627"/>
+  <circle cx="130" cy="76" r="7" fill="#ffc627"/>
+  <path d="M465 75 A55 55 0 0 0 520 145 L445 220 A24 24 0 0 1 411 186 L486 111 A55 55 0 0 0 465 75Z" fill="#5c6670"/>
+</svg>
